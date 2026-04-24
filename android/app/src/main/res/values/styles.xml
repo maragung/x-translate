@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Base theme -->
+  <style name="Theme.XTranslate" parent="android:Theme.Material.Light">
+    <!-- Colors -->
+    <item name="android:colorPrimary">@color/primary</item>
+    <item name="android:colorAccent">@color/secondary</item>
+    <item name="android:colorBackground">@color/background</item>
+    <item name="android:colorForeground">@color/on_surface</item>
+
+    <!-- Status bar -->
+    <item name="android:statusBarColor">@color/background</item>
+    <item name="android:windowLightStatusBar">true</item>
+
+    <!-- Navigation bar -->
+    <item name="android:navigationBarColor">@color/background</item>
+    <item name="android:windowLightNavigationBar">true</item>
+
+    <!-- Window properties -->
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowActionBar">false</item>
+    <item name="android:windowFullscreen">false</item>
+  </style>
+
+  <!-- Dark variant -->
+  <style name="Theme.XTranslate.Dark" parent="android:Theme.Material">
+    <item name="android:colorPrimary">@color/primary_light</item>
+    <item name="android:colorBackground">@color/background_dark</item>
+    <item name="android:colorForeground">@color/on_surface_light</item>
+    <item name="android:statusBarColor">@color/background_dark</item>
+    <item name="android:navigationBarColor">@color/background_dark</item>
+  </style>
+</resources>

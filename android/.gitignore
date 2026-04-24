@@ -1,0 +1,57 @@
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Build
+build/
+.cxx/
+*.o
+*.a
+*.so
+CMakeFiles/
+cmake_build_debug/
+cmake_build_release/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.classpath
+.settings/
+*.sublime-workspace
+
+# Android
+local.properties
+*.apk
+*.aar
+*.aab
+*.ap_
+*.dex
+*.class
+*.jar
+*.zip
+
+# Kotlin
+.kotlin/
+
+# Keys and secrets
+keystore.jks
+keystore.properties
+signing.properties
+*.jks
+*.p12
+*.pfx
+
+# Misc
+*.log
+dist/
+tmp/
+temp/
+out/
+*.bak

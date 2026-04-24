@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Spacing (8px base unit) -->
+  <dimen name="spacing_4">4dp</dimen>
+  <dimen name="spacing_8">8dp</dimen>
+  <dimen name="spacing_12">12dp</dimen>
+  <dimen name="spacing_16">16dp</dimen>
+  <dimen name="spacing_20">20dp</dimen>
+  <dimen name="spacing_24">24dp</dimen>
+  <dimen name="spacing_32">32dp</dimen>
+  <dimen name="spacing_40">40dp</dimen>
+
+  <!-- Container padding -->
+  <dimen name="container_padding">16dp</dimen>
+  <dimen name="container_padding_horizontal">16dp</dimen>
+  <dimen name="container_padding_vertical">16dp</dimen>
+
+  <!-- Border radius -->
+  <dimen name="radius_4">4dp</dimen>
+  <dimen name="radius_8">8dp</dimen>
+  <dimen name="radius_12">12dp</dimen>
+  <dimen name="radius_16">16dp</dimen>
+
+  <!-- Touch target size (48dp minimum) -->
+  <dimen name="touch_target_size">48dp</dimen>
+
+  <!-- Icons -->
+  <dimen name="icon_size_16">16dp</dimen>
+  <dimen name="icon_size_24">24dp</dimen>
+  <dimen name="icon_size_32">32dp</dimen>
+
+  <!-- Typography -->
+  <dimen name="text_headline_large">32sp</dimen>
+  <dimen name="text_headline_medium">28sp</dimen>
+  <dimen name="text_headline_small">24sp</dimen>
+  <dimen name="text_title_large">22sp</dimen>
+  <dimen name="text_title_medium">16sp</dimen>
+  <dimen name="text_body_large">16sp</dimen>
+  <dimen name="text_body_medium">14sp</dimen>
+  <dimen name="text_body_small">12sp</dimen>
+  <dimen name="text_label_large">14sp</dimen>
+  <dimen name="text_label_medium">12sp</dimen>
+  <dimen name="text_label_small">11sp</dimen>
+
+  <!-- Line heights -->
+  <dimen name="line_height_body">24sp</dimen>
+  <dimen name="line_height_headline">32sp</dimen>
+</resources>

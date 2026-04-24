@@ -1,0 +1,11 @@
+# This file is intentionally tracked in version control.
+# Copy to local.properties and customize for your environment.
+
+sdk.dir=/path/to/android/sdk
+ndk.dir=/path/to/android/ndk/25.1.8937393
+
+# Optional: Keystore for release builds
+# keystore.file=/path/to/keystore.jks
+# keystore.password=
+# key.alias=x-translate
+# key.password=

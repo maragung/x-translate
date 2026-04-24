@@ -1,0 +1,3 @@
+-dontwarn com.microsoft.onnxruntime.**
+-keep class com.microsoft.onnxruntime.** { *; }
+-keep interface com.microsoft.onnxruntime.** { *; }

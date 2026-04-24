@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">x-translate</string>
+  <string name="translate_hint">Enter text to translate</string>
+  <string name="translate_button">Translate</string>
+  <string name="copy_button">Copy</string>
+  <string name="share_button">Share</string>
+  <string name="swap_languages">Swap languages</string>
+  <string name="clear_button">Clear</string>
+  <string name="settings">Settings</string>
+  <string name="history">History</string>
+  <string name="dictionary">Dictionary</string>
+  <string name="learning_mode">Learning</string>
+  <string name="about">About</string>
+  <string name="no_internet">Fully offline - no internet required</string>
+  <string name="translated_text">Translated text</string>
+  <string name="source_language">Source language</string>
+  <string name="target_language">Target language</string>
+  <string name="english">English</string>
+  <string name="indonesian">Indonesian</string>
+  <string name="auto_detect">Auto-detect</string>
+</resources>
